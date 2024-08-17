@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **MERN Stack**
 - 💬 Ask me about **React, Node, Express, MongoDb**
 - 📫 How to reach me: **kodigantiramu0@gmail.com**
-- ⚡ Fun fact: **"My favorite debugging tool? A cup of Coffee."**
+- ⚡ Fun fact: My favorite debugging tool? A cup of Coffee.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
