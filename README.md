@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Food App**
 - 🌱 I’m currently learning **MERN Stack**
-- 💬 Ask me about **React, Node, Express, Mongo**
+- 💬 Ask me about **React, Node, Express, MongoDb**
 - 📫 How to reach me: **kodigantiramu0@gmail.com**
 - ⚡ Fun fact: *"My favorite debugging tool? Take a break."*
 
