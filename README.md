@@ -1,10 +1,12 @@
 <h1 align="center">Hi there, I'm Ramu Kodiganti 👋</h1>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/77008381/145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6.png"></p>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/RamuKodiganti)
+
+
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bittucse&label=Profile%20views&color=0e75b6&style=flat" alt="RamuKodiganti" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RamuKodiganti&label=Profile%20views&color=0e75b6&style=flat" alt="RamuKodiganti" /> </p>
 
 - 🔭 I’m currently working on **Food App**
 - 🌱 I’m currently learning **MERN Stack**
